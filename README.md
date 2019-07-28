@@ -12,8 +12,11 @@ npm i && npm start
 localhost:8080
 ```
 
-#### Screenshot
-![alt text](./screenshot.png)
+#### Vertical Layout - Screenshot
+![alt text](screenshotVertical.png)
+
+#### Horizontal Layout - Screenshot
+![alt text](screenshotHorizontal.png)
 
 # note
 
