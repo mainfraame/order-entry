@@ -1,6 +1,5 @@
-# exoduspoint-order-entry
-order entry coding challenge for ExodusPoint Capital Management
-
+# order-entry
+order entry coding challenge
 
 #### Start Project
 ```
